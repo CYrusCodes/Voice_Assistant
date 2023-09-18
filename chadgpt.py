@@ -82,8 +82,8 @@ if __name__=="__main__":
             joke=pyjokes.get_joke()
             print(joke)
             speak(joke)
-    elif 'fifa 18' in query:
-         command = "D:\FIFA18\FIFA18.exe"
-         os.system(command)  
+  #  elif 'fifa 18' in query:
+        # command = "D:\FIFA18\FIFA18.exe"
+        # os.system(command)  
 
                                
